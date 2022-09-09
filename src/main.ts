@@ -12,3 +12,4 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 
   // 1 + 1 = 2
+  // 1 x 1 = 1
