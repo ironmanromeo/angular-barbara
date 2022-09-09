@@ -13,3 +13,4 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 
   // 1 + 1 = 2
   // 1 x 1 = 1
+  // 2 x 2 = 4
